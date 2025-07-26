@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iliya-mahvash
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via my email: iliyamahvash@gmail.com
 
 <!---
