@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @iliya-mahvash
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning python
-- 📫 How to reach me via my email: iliyamahvash@gmail.com
+This is my Computer Basic's final project which is a simple othello game create with C
